@@ -1,4 +1,4 @@
-Name of the Company:Brainwavematrix Solution
+Name of the Company:Brainwave Matrix Solutions
 
 Objective:
 
